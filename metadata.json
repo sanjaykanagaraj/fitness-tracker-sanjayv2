@@ -1,0 +1,6 @@
+{
+  "name": "Threshold",
+  "description": "Fitness & nutrition coaching web app for lifters and cyclists with AI meal coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
